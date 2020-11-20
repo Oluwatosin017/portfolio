@@ -28,7 +28,7 @@ body{
 h1{
     color: #66BFBF;
     margin: 0 auto;
-    font-size: 5.625rem;
+    font-size: 3.25rem;
     font-family: 'Sacramento', cursive;
     line-height: 2;
 }
@@ -177,13 +177,13 @@ a:hover{
 
 @media screen and (max-width: 500px) {
     body {
-        width: 700px;
+        width: auto;
         overflow-x: hidden;
         font-size: 18px;
     }
     .top-cloud {
-        top: 9rem;
-        left:30rem;
+        top: 4rem;
+        right: 2rem;
     }
     .bottom-cloud {
         left: 2rem;
