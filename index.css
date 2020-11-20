@@ -185,6 +185,9 @@ a:hover{
         top: 4rem;
         right: 2rem;
     }
+    .mountain-image {
+        width: 80%;
+    }
     .bottom-cloud {
         left: 2rem;
         top: 15rem;    
